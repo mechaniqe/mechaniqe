@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is **Sahin**, I am **Game Producer** and **Lead Unity Developer** at **DynamicBox**. We're a small indie studio, mostly dealing with work-for-hire work (we've got a couple internal projects up and coming :sunglasses:). **Unity** is the main engine we're using, so I'll try to share some of the tools we build out in the process.
+
+- 🔭 I’m currently working on **Werewolf Heroes** social deduction multiplayer game, coming to iOS and Android
+- 🌱 I’m experimenting with **Unreal engine**, but way to go...
+- 📫 The best way to reach me is through Twitter. Hint: My username is the same there.
 
 <!--
 **mechaniqe/mechaniqe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
